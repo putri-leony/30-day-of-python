@@ -1,4 +1,5 @@
 >>> #Python PIP
+#we have to install pip first, then we can install the packages using pip such as numpy, pandas, requests, etc.
 >>> import numpy
 >>> numpy.version.version
 '2.5.1'
